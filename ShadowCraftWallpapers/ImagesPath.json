@@ -1,19 +1,138 @@
 [
     {
-    "name": "Webp Image",
-    "author": "unknown",
-    "url": "https://github.com/Naveed1234/ShadowCrfat/blob/main/ShadowCraftWallpapers/Images/SC_Wall_02.jpg",
-    "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+        "name": "ShdowCraft 1",
+        "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_01.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_01.jpg",
     "dimensions": "3200x2560",
     "copyright": "Unknown",
     "collections": "landscapes"
 },
 
 {
-    "name": "ShotA",
-    "author": "Someone",
-    "url": "https://github.com/Naveed1234/ShadowCrfat/blob/main/ShadowCraftWallpapers/Images/SC_Wall_02.jpg",
-    "collections": "featured,landscapes,people"
+    "name": "ShdowCraft 2",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_02.jpg",
+    "dimensions": "3200x2560",
+    "collections": "people,city"
+   
+},
+{
+    "name": "ShdowCraft 3",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_03.jpg",
+    "dimensions": "1280x720",
+    "copyright": "Credits to its creator",
+    "collections": "landscapes,city"
+},
+{
+    "name": "ShdowCraft 4",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_05.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_05.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "featured,landscapes,people,city",
+    "featured": true
+},
+{
+    "name": "ShdowCraft 5",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_05.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_05.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "featured,landscapes,people,food"
+},
+{
+    "name": "ShdowCraft 6",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_06.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_06.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "featured,food,people"
+},
+{
+    "name": "ShdowCraft 7",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_07.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_07.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "landscapes,people,city"
+},
+{
+    "name": "ShadowCraft 8",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_08.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_08.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "featured,landscapes"
+},
+{
+    "name": "ShdowCraft 9",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_09.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_09.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "featured,people"
+},
+{
+    "name": "ShdowCraft 10",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_10.jpg",
+    "thumbnail": "https://via.placeholder.com/500",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "landscapes,people"
+},
+{
+    "name": "ShdowCraft 11",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_11.jpg",
+    "thumbnail": "https://via.placeholder.com/150",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "food"
+},
+{
+    "name": "ShdowCraft 12",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_12.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_12.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Unknown",
+    "collections": "landscapes"
+},
+{
+    "name": "ShdowCraft 13",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_13.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_13.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "halloween"
+},
+{
+    "name": "ShdowCraft 14",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_14.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_14.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "halloween, new year"
+},
+{
+    "name": "ShdowCraft 15",
+    "author": "Zainab Faiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_15.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/ShadowCrfat/main/ShadowCraftWallpapers/Images/SC_Wall_15.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "Free (do whatever you want)",
+    "collections": "new year, new"
 }
+
 
 ]
